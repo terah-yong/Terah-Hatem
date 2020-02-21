@@ -6,3 +6,5 @@ You don't know how to fork a project? [Click hear](https://help.github.com/artic
 # Terah-Hatem
 
 **Landing Page Development**
+
+Including HTML & CSS
